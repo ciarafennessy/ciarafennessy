@@ -14,7 +14,6 @@
 | Art | Cooking | Reading |
 | --- | ------- | ------- |
 | painting :art: | savoury :spaghetti: | fiction :books: |
-| -------------- | ------------------- | --------------- |
 | knitting  :womans_clothes: | sweet  :cake: | historical :crown: | 
 <!--
 **ciarafennessy/ciarafennessy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
