@@ -4,9 +4,9 @@
 ![image1](https://www.smokinfox.co.uk/wp-content/uploads/sites/30/2017/02/have-look.jpg)
 <br>
 ##You will find:
-*Training material
-*Beautiful Repositories
-*The odd mistake
+* Training material
+* Beautiful Repositories
+* The odd mistake
 <br>
 ## My Interests
 | Art | Cooking | Reading |
