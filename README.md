@@ -8,7 +8,8 @@
 * Beautiful Repositories
 * The odd mistake
 <br>
-## My Interests
+## My Interests<br>
+
 | Art | Cooking | Reading |
 | --- | ------- | ------- |
 | painting :art: | savoury :spaghetti: | fiction :books: |
